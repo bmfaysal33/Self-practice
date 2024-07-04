@@ -1,0 +1,63 @@
+
+.box {
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    width: 250px;
+    height: 35px;
+    border-radius: 10px;
+    border-color: rgb(25, 97, 241);
+    border-width: 1px;
+    
+    background-color: rgb(255, 255, 255);
+     }
+
+.circle-box {
+
+    height: 44px; width: 255px;
+
+    border-radius: 0px;
+    background-color: rgba(10, 88, 255, 0.822);
+    border-color: rgb(0, 0, 0);
+    border-width: 0px;
+       }
+
+.login-button{
+    
+    color: white;
+    font-size:larger;
+    font-weight:600;
+    height: 44px; width: 255px;
+    border-radius: 5px;
+    background-color: rgba(10, 88, 255, 0.822);
+    border-color: black;
+    border-width: 1px;
+
+}
+
+
+
+.create-new-account{
+    color: aliceblue;
+    font-size: larger;
+    font-weight: 600;
+    height: 44px; width: 255px;
+    border-radius: 10px;
+    background-color: rgb(1, 153, 54);
+    border-color: rgb(231, 231, 231);
+    border-width: 1px;
+}
+
+.form-boxes-container {
+
+       margin: 0 auto;
+       text-align: center;
+       border-radius: 10px;
+       height: 350px;
+       width: 400px;
+       background-color:rgb(255, 255, 255);
+       box-shadow: 1px 1px 10px ;
+
+    }
+    
+    
